@@ -21,9 +21,11 @@
 
 <br/>
 
-## 4. 프로젝트 설명 
-<img width="326" alt="공데분1" src="https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis/assets/124686375/e94bbe01-1a06-4f18-a4a5-c4e192a36181"><br/>
-<img width="311" alt="공데분2" src="https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis/assets/124686375/7b9fbf79-71f1-45a8-af4a-e45ff4d6fdab"><br/>
+## 4. 프로젝트 설명   
+
+<img width="326" alt="공데분1" src="https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis/assets/124686375/e94bbe01-1a06-4f18-a4a5-c4e192a36181">| <img width="326" alt="공데분2" src="https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis/assets/124686375/7b9fbf79-71f1-45a8-af4a-e45ff4d6fdab">
+---|---|
+<br/>
 
 홍대, 상수, 서교동, 연남동은 마포를 대표하는 곳이라고 할 만큼, 사람들의 방문 횟수가 아주 활발한 지역이라고 할 수 있다. 하지만 코로나와 같은 펜더믹이 덮칠 경우, 가장 먼저 발길을 멈추는 곳 또한 마포구가 대표적이라고 할 수 있다. 이에 따라 **홍대 및 연남동**을 중점적으로 분석하고자 했다. 
 음식 업종을 **한식, 일식, 양식, 중식**의 카테고리로 나누어 **2018년도와 2022년도의 데이터**를 비교하였다. 비교 이후, 18년과 22년 사이에 가장 변화가 많았던 업종을 파악하였으며, 4년 사이에 없어진 음식점들을 제외하고, 남은 음식점들에 직접 방문하면서 생존할 수 있었던 이유를 분석하였다.  
