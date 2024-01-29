@@ -1,6 +1,11 @@
-# 홍대 및 연남 상권 생존 맛집 분석
+<h2 align='center'> 홍대 및 연남 상권 생존 맛집 분석 </h2>
+<h3 align='center'> [전공] 공간빅데이터분석 Project </h3>
+<h4 align='center'> (2022.05. ~ 2022.06.)  
 
-<br/>
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+&nbsp;
+
 
 ## 1. 배경 및 목적
 
